@@ -10,6 +10,10 @@ Unity를 통한 c++ 언어를 사용합니다
 
 -프로젝트 설명
 자료로 올라온 3amb파일의 자료를 읽어와 Unity환경에서 비트 및 곡을 구현하여 표출하는 프로젝트로 구현하였습니다.
+프로그램에서 핵심이 되는 파일 및 스크립트 정리들은 PPT에서 따로 정리해두었습니다.
+
+
+
 시연 영상은 
-https://github.com/junminChoi/junmin/blob/main/BeatSaber%20-%20SampleScene.zip
-이곳에서 압축된 파일로 확인하실 수 있습니다.
+https://www.youtube.com/watch?v=C0BLEfDZ2DU
+이곳에서 확인하실수 있습니다.
