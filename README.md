@@ -19,6 +19,6 @@ Unity를 통한 c++ 언어를 사용합니다
 
 시연 영상은 
 
-https://www.youtube.com/watch?v=C0BLEfDZ2DU
+https://www.youtube.com/watch?v=tVcWXg_wIoM
 
 이곳에서 확인하실수 있습니다.
